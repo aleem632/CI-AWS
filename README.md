@@ -1,5 +1,5 @@
 # Flow of Execution
-![alt text](Continous Integeration.png)
+[![alt text](Continous Integeration.png)](https://github.com/aleem632/CI-AWS/blob/012b42fbeeb408258ae4cb010e63382efa5cb83d/Continous%20Integeration.png)
 - aws code commit
 - code artifact
 - aws code build
