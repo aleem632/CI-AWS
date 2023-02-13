@@ -1,5 +1,5 @@
 # Flow of Execution
-`![Diagram](/aws-files/Continous-Integeration.png)`
+`![Diagram](aws-files/continous-integeration.png)`
 - aws code commit
 - code artifact
 - aws code build
