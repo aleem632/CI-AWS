@@ -1,5 +1,11 @@
+# Flow of Execution
+![alt text](Continous Integeration.png)
+- aws code commit
+- code artifact
+- aws code build
+- aws pipeline
+
 # Prerequisites
-#
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
